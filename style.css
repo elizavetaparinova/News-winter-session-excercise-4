@@ -1,0 +1,16 @@
+/* Use this when you are ready to make a media query style
+
+@media screen and (max-width: 768px) {
+  
+
+}  */
+
+container1{ 
+    height: 400px;
+    background-color: darkgreen;
+    margin: 50px;
+    box-sizing: content-box;
+
+}
+
+
